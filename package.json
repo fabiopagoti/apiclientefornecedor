@@ -1,0 +1,22 @@
+{
+  "name": "apiclientefornecedor",
+  "version": "1.0.0",
+  "description": "API de clientes e fornecedores",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiopagoti/apiclientefornecedor.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Fabio Pagoti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiopagoti/apiclientefornecedor/issues"
+  },
+  "homepage": "https://github.com/fabiopagoti/apiclientefornecedor#readme"
+}
