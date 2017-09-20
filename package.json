@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/fabiopagoti/apiclientefornecedor/issues"
   },
-  "homepage": "https://github.com/fabiopagoti/apiclientefornecedor#readme"
+  "homepage": "https://github.com/fabiopagoti/apiclientefornecedor#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12"
+  }
 }
